@@ -59,7 +59,7 @@ h2{
         padding-top: 10%;
     }
     #texrbox{
-        font-size: x-large;
+        font-size: large;
     }
 }
 @media(max-width:600px){
